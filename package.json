@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/MamaRussia/google-analytics-node#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "googleapis": "^42.0.0"
   }
 }
